@@ -89,3 +89,22 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart for Part Length
+
+This control chart visualizes the 'PartLength' for Machine 1, at a Temperature of 303 and Pressure of 100. It helps in monitoring process stability and detecting out-of-control conditions.
+
+- **UCL (Upper Control Limit)**: The upper boundary of acceptable variation.
+- **LCL (Lower Control Limit)**: The lower boundary of acceptable variation.
+- **CL (Center Line)**: The average or target value of the process.
+:::
+
+::: {.column width="50%"}
+<iframe data-src='media/plots/xbar_partlength.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+
+::::
